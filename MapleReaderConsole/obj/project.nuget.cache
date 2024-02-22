@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "7YMAW3PE2wGibTazgG0hTVUW2FgWrnT44xfH8i7yH6WGNWbQASjmW4tGGOBlaIrY+8OSEcgR0EHA6040xX3DPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sticky\\source\\repos\\maple-mvp-discord-bot\\MapleReaderConsole\\MapleReaderConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sticky\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\bitmiracle.libtiff.net.2.4.649.nupkg.sha512",
+    "C:\\Users\\Sticky\\.nuget\\packages\\discord.net.commands\\3.10.0\\discord.net.commands.3.10.0.nupkg.sha512",
+    "C:\\Users\\Sticky\\.nuget\\packages\\discord.net.core\\3.10.0\\discord.net.core.3.10.0.nupkg.sha512",
+    "C:\\Users\\Sticky\\.nuget\\packages\\discord.net.interactions\\3.10.0\\discord.net.interactions.3.10.0.nupkg.sha512",
+    "C:\\Users\\Sticky\\.nuget\\packages\\discord.net.rest\\3.10.0\\discord.net.rest.3.10.0.nupkg.sha512",
+    "C:\\Users\\Sticky\\.nuget\\packages\\discord.net.webhook\\3.10.0\\discord.net.webhook.3.10.0.nupkg.sha512",
+    "C:\\Users\\Sticky\\.nuget\\packages\\discord.net.websocket\\3.10.0\\discord.net.websocket.3.10.0.nupkg.sha512",
+    "C:\\Users\\Sticky\\.nuget\\packages\\ironocr\\2023.5.35\\ironocr.2023.5.35.nupkg.sha512",
+    "C:\\Users\\Sticky\\.nuget\\packages\\ironsoftware.system.drawing\\2023.4.4\\ironsoftware.system.drawing.2023.4.4.nupkg.sha512",
+    "C:\\Users\\Sticky\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Sticky\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Sticky\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Sticky\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\Sticky\\.nuget\\packages\\sixlabors.imagesharp\\3.0.0\\sixlabors.imagesharp.3.0.0.nupkg.sha512",
+    "C:\\Users\\Sticky\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\Sticky\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\Sticky\\.nuget\\packages\\system.interactive.async\\5.0.0\\system.interactive.async.5.0.0.nupkg.sha512",
+    "C:\\Users\\Sticky\\.nuget\\packages\\system.linq.async\\5.0.0\\system.linq.async.5.0.0.nupkg.sha512",
+    "C:\\Users\\Sticky\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Sticky\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\Sticky\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
